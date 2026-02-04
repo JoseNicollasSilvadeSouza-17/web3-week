@@ -1,21 +1,32 @@
 # smart-contract
 
-Our Webbb3 smart contract. Project from Web3 Week: https://www.luiztools.com.br/w3w
+Nosso smart contract Webbb3. Projeto da Web3 Week: https://www.luiztools.com.br/w3w
 
-## How to Test
+## Como Testar
 
-1. Open https://remix.ethereum.org
-2. Create a new Webbb3.sol file
-3. Copy and paste the content from repo
+1. Abra https://remix.ethereum.org
+2. Crie um novo arquivo Webbb3.sol
+3. Copie e cole o conteúdo do repositório
 4. Compile & Deploy (Remix VM)
-5. Test
+5. Teste
 
-## More
+## Como fazer Deploy (testnet)
 
-Need help with programming basics? https://www.youtube.com/watch?v=c9mDHLYAIu8&list=PLsGmTzb4NxK3r0_sMLyHKaYX97tPN2QPm
+1. Instale a MetaMask: https://metamask.io
+2. Configure para BNB Chain Testnet em https://testnet.bscscan.com
+3. Obtenha TBNB (fundos de teste) em https://faucet.luiztools.com.br
+4. Deploy & Run Transactions > Browser Provider > Injected Provider - MetaMask
+5. "Deploy & Verify" e confirme a transação na MetaMask
+6. Com o endereço do contrato, verifique se deu tudo certo em https://testnet.bscscan.com
 
-Know my web3 book: https://www.luiztools.com.br/livro-web3
+## Mais
 
-Follow me on social networks for more: https://about.me/luiztools
+Quer aprender o básico de programação? https://www.youtube.com/watch?v=c9mDHLYAIu8&list=PLsGmTzb4NxK3r0_sMLyHKaYX97tPN2QPm
 
-Receive my news on Telegram: https://t.me/luiznews
+Precisa de ajuda com a instalação da MetaMask? https://youtu.be/5JFriAXSxVk
+
+Configuração manual da MetaMask: https://www.luiztools.com.br/post/como-configurar-a-metamask-para-desenvolvimento-blockchain/
+
+Site do faucet: https://faucet.luiztools.com.br
+
+Me siga nas redes sociais e Telegram: https://about.me/luiztools
